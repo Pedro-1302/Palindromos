@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palindromos</string>
+    <string name="app_tittle">Identificador de Palindromos</string>
+    <string name="type_a_text">Digite uma palavra</string>
+    <string name="buttonText">Palindromo?</string>
+</resources>
